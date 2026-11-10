@@ -1,6 +1,4 @@
-# ai_convo_summarizer
-
-Three Python utilities for turning long-form conversations (AI chat transcripts, meeting notes, project docs) into compact, portfolio-ready evidence summaries — built from a real-world use case: consolidating 11 AI-assisted software-building conversations into an FDE/APM portfolio dossier.
+# Three Python utilities for turning long-form conversations (AI chat transcripts, meeting notes, project docs) into compact, portfolio-ready evidence summaries — built from a real-world use case: consolidating 11 AI-assisted software-building conversations into an FDE/APM portfolio dossier.
 
 ## What's inside
 
